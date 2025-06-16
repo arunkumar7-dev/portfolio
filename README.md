@@ -22,6 +22,6 @@ A responsive and modern personal portfolio website built using **HTML**, **CSS**
 
 - **HTML5** – Markup structure
 - **CSS3** – Styling and layout
-- **JavaScript (Vanilla)** – Interactivity and DOM manipulation
+- **JavaScript** – Interactivity and DOM manipulation
 
 ---
