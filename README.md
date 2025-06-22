@@ -13,7 +13,7 @@ A responsive and modern personal portfolio website built using **HTML**, **CSS**
 - 💻 Showcases personal projects with descriptions and live links
 - 🎯 Highlights technical skills and tools used
 - 📱 Responsive design for mobile, tablet, and desktop
-- 🧭 Smooth navigation with active link highlighting
+- 🧭 Smooth navigation
 - 🌙 Dark Mode
 
 ---
